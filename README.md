@@ -1,32 +1,48 @@
 <div align="center">
 
-# 🖥️ MAE Advertising Agency — Creative OS
+# ✨ MAE Advertising Agency
 
-**macOS masaüstü konseptli kreatif ajans web sitesi**
+**Kurumsal Site · Creative OS**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-mae.com.tr-6c63ff?style=for-the-badge)](https://mae.com.tr/)
+<img src="https://bugrayetis.github.io/yeni/assets/covers/mae-advertising-agency.jpg" width="100%" alt="MAE Advertising Agency ön izleme" />
 
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/-Responsive-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)
+<br/><br/>
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-mae-advertising-agency"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
 
 </div>
 
 ---
 
-## ✨ Proje Hakkında
+## 📌 Proje Hakkında
 
-MAE Reklam Ajansı için tasarlanan bu site, **macOS masaüstü arayüzü konseptiyle** yaratıcı bir ajans deneyimi sunar. Kullanıcılar bir işletim sistemi kullanıyormuş gibi ajansın hizmetlerini, projelerini ve ekibini keşfeder.
+MAE Reklam Ajansı'nın ana kurumsal web sitesi. macOS masaüstü arayüzünden ilham alan "Creative OS" konseptiyle tasarlanmış; Finder benzeri navigasyon, dock menü, pencere sistemi ve interaktif masaüstü deneyimi sunuyor. İstanbul, Ankara ve Amsterdam ofisleri için tek çatı altında yaratıcı ajans kimliğini yansıtıyor.
+
+| | |
+|---|---|
+| **Kategori** | Kurumsal Site |
+| **Geliştirici** | Buğra Yetiş · MAE Reklam Ajansı |
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **GSAP & ScrollTrigger** — Akıcı sayfa animasyonları
-- **Interactive OS UI** — macOS benzeri masaüstü arayüzü
-- **Responsive Design** — Tüm cihazlarda uyumlu
-- **Vanilla JavaScript** — Framework'süz, performans odaklı
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-1f2233?style=flat-square)
+![macOS UI](https://img.shields.io/badge/macOS_UI-1f2233?style=flat-square)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-1f2233?style=flat-square)
+![AI Entegrasyon](https://img.shields.io/badge/AI_Entegrasyon-1f2233?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-1f2233?style=flat-square)
 
-## 🔗 Bağlantılar
+## 🔒 Kaynak Kod
 
-- 🌐 **Canlı:** [mae.com.tr](https://mae.com.tr/)
-- 👤 **Geliştirici:** [Buğra Yetiş](https://bugrayetis.github.io)
+Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-mae-advertising-agency)** göz atın.
+
+---
+
+<div align="center">
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-mae-advertising-agency"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
+
+<sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
+
+</div>
