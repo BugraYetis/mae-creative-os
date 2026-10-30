@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ MAE Advertising Agency
+# 🖥️ MAE Advertising Agency
 
 **Kurumsal Site · Creative OS**
 
